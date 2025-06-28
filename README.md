@@ -8,7 +8,7 @@
 
 ### 🧰 Tech Stack
 
-**Frontend:** React.js, Redux, Tailwind CSS, Bootstrap, Material UI  
+**Frontend:** React.js, Redux, NextJS, Tailwind CSS, Bootstrap, Material UI  
 **Backend:** Node.js, Express.js, NestJS, TypeScript, RxJS  
 **Databases:** MongoDB, MySQL, Firebase  
 **Cloud:** AWS, GCP  
