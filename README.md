@@ -29,11 +29,11 @@
 
 ### 📌 Featured Projects
 
-- 🔹 **Calendar Sync & Analytics** – Webhook-driven calendar sync, Pub/Sub fallback and BigQuery dashboards
-- 🔹 **Calendar PWA** – Offline-first React + Tailwind app with lazy loading, code splitting and caching
-- 🔹 **NextGenSCO** – Real-time retail microservices with TypeScript, React and MQTT (30% faster)
-- 🔹 **Loan & Mutual Fund Flow (ICICI Bank)** – Node.js, Express and MySQL backend for secure financial workflows
-- 🔹 **CMS Web App** – React + Node.js app with REST APIs and an admin panel
+🔹 **Calendar Sync & Analytics** – Webhook-driven calendar sync, Pub/Sub fallback and BigQuery dashboards
+🔹 **Calendar PWA** – Offline-first React + Tailwind app with lazy loading, code splitting and caching
+🔹 **NextGenSCO** – Real-time retail microservices with TypeScript, React and MQTT (30% faster)
+🔹 **Loan & Mutual Fund Flow (ICICI Bank)** – Node.js, Express and MySQL backend for secure financial workflows
+🔹 **CMS Web App** – React + Node.js app with REST APIs and an admin panel
 
 ---
 
